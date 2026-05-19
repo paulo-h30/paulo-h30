@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 💻 Conectado em<br>* **Rustell:** Bot de Discord multi-servidor estruturado em Node.js e MongoDB.<br>* **Finn:** Aplicação web moderna e responsiva para resolver seus problemas financeiros.<br><br>### 🛠️ Minha Stack<br>* **Back-end:** Node.js | MongoDB / Mongoose<br>* **Front-end:** Tailwind CSS | JavaScript / TypeScript | CSS3<br><br>### 🚀 Próximo Nível<br>* Arquitetura de software, infraestrutura em nuvem e deploys escaláveis.<br><br>### 💬 Troco Ideia Sobre<br>* Desenvolvimento Full-Stack, lógica de automação e rotinas de suporte de TI.<br><br>### ⚡ Estilo de Vida<br>* Estudante de Sistemas de Informação, técnico de suporte e focado nos treinos diários da academia.
+Sou estudante de Sistemas de Informação e técnico de suporte em TI, focado no desenvolvimento de aplicações full-stack com Node.js, MongoDB e Tailwind CSS. Atualmente, estou focado na evolução do Rustell, um bot de Discord multi-servidor construído com Node.js e Mongoose, e no desenvolvimento do site Finn. Busco aprofundar meus conhecimentos em arquitetura de software, infraestrutura em nuvem e deploys escaláveis. Fora do terminal, divido meu tempo entre a rotina de TI e os treinos diários na academia.
 
 
 ## 🌐 Socials:
