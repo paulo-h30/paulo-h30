@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Sistemas de Informação e técnico de suporte em TI, focado no desenvolvimento de aplicações full-stack com Node.js, MongoDB e Tailwind CSS. Atualmente, estou focado na evolução do Rustell, um bot de Discord multi-servidor construído com Node.js e Mongoose, e no desenvolvimento do site Finn. Busco aprofundar meus conhecimentos em arquitetura de software, infraestrutura em nuvem e deploys escaláveis. Fora do terminal, divido meu tempo entre a rotina de TI e os treinos diários na academia.
+Sou estudante de Sistemas de Informação e técnico de suporte em TI, focado no desenvolvimento de aplicações full-stack com Node.js, MongoDB e Tailwind CSS. Atualmente, estou focado na evolução do Rustell, um bot de Discord multi-servidor construído com Node.js e Mongoose, e no desenvolvimento do site Finn. Busco aprofundar meus conhecimentos em arquitetura de software, infraestrutura em nuvem e deploys escaláveis.
 
 
 ## 🌐 Socials:
